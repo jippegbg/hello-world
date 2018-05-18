@@ -7,6 +7,8 @@ namespace TestApplication
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
+
+			// Added comment in Branch_1
 		}
 	}
 }
